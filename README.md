@@ -25,7 +25,7 @@
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/meriem-sagaama-2851711a1/">
-    <img src="https://i.ibb.co/jDwDSn1/linkedin.png">
+    <img src="https://i.ibb.co/wNBjSZr/linkedin.png">
   </a>
   </p>
 </h1>
